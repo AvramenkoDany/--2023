@@ -1,0 +1,18 @@
+Name: hdfgdf
+Surname: fdgdf
+Gender: Male
+Age: 24
+Height: 232
+Weight: 123
+Is Habbits: True
+Email: 123
+Nation: Polish
+Adress: Country: 1322
+City: 323
+Street: 23
+House: 23
+Group: 2313
+Money: 321
+Key: java
+ 
+

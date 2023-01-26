@@ -1,0 +1,15 @@
+Name: ывфыв
+Surname: вфывфы
+Gender: Male
+Age: 3
+Height: 2
+Weight: 2121
+Is Habbits: False
+Email: выфвфывф
+Nation: Polish
+Adress: Country: вфывф
+City: ыфвфыв
+Street: вфывфы
+House: 2
+
+

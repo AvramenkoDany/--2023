@@ -1,0 +1,18 @@
+Name: fgdfgd
+Surname: fdgdf
+Gender: Male
+Age: 18
+Height: 423
+Weight: 5463
+Is Habbits: True
+Email: gsfgdf
+Nation: Ukraine
+Adress: Country: 54s
+City: fsdfsd
+Street: dsfsd
+House: 44
+Group: 5453
+Money: 1234321
+Key: java
+ 
+

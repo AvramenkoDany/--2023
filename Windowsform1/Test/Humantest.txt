@@ -1,0 +1,15 @@
+Name: gfhfg
+Surname: dassda
+Gender: Female
+Age: 12
+Height: 421
+Weight: 31
+Is Habbits: True
+Email: dasda
+Nation: French
+Adress: Country: sadasd
+City: sfdsf
+Street: sdf
+House: 7
+
+
