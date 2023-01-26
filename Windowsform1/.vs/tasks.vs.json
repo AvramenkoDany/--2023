@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-WindowsForm1",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "задача-WindowsForm1",
+      "appliesTo": "WindowsForm1.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
